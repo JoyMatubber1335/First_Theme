@@ -13,14 +13,15 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "10% OFF on All Product ",
             "text_style": "body"
+            
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop Now",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -52,14 +53,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "10% OFF ON ANY PRODUCT ",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or we customers to your store.<\/p>"
           }
         }
       },
@@ -123,7 +124,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Popular Product",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -136,7 +137,7 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=-rWb10edU6k",
         "heading_size": "h1",
         "description": "",
         "full_width": false,
@@ -151,7 +152,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Main Branch ",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -160,7 +161,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Mirpur Branch",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -169,7 +170,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Mohakhali Branch",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -192,7 +193,7 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-3",
         "columns_mobile": "1",
         "padding_top": 36,
         "padding_bottom": 36
